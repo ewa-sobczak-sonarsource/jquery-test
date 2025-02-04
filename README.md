@@ -1,6 +1,8 @@
 [jQuery](https://jquery.com/) — New Wave JavaScript
 ==================================================
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ewa-sobczak-sonarsource_jquery-test&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ewa-sobczak-sonarsource_jquery-test)
+
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjquery%2Fjquery.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjquery%2Fjquery?ref=badge_shield)
 
 [![Gitter](https://badges.gitter.im/jquery/jquery.svg)](https://gitter.im/jquery/jquery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
